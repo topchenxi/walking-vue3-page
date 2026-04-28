@@ -1,0 +1,20 @@
+node_modules/
+dist/*
+*.zip
+*.xml
+*.iml
+report.*.json
+.history
+package-lock.json
+* copy.*
+*.DS_Store
+
+
+# idea 配置目录
+.idea
+.trae
+*.bat
+
+# 忽略 .prettierrc.js 文件
+.prettierrc.js
+
